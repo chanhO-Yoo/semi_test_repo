@@ -5,5 +5,8 @@ public class sample {
 		System.out.println("git repository 테스트입니다.");
 		System.out.println("test2");
 		System.out.println("test3");
+		
+		test_poi415 test = new test_poi415();
+		test.test();
 	}
 }

@@ -15,7 +15,7 @@ public class sample {
 		test2.test();
 		//주석추가
 		
-		//1. chanc_new_branch 생성 후 커밋
+		//1. chanc_new_branch 새로운 브랜치 생성 후 커밋
 		
 	}
 }

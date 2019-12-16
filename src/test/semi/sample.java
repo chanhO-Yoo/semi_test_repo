@@ -15,5 +15,7 @@ public class sample {
 		test2.test();
 		//주석추가
 		
+		//1. chanc_new_branch 생성 후 커밋
+		
 	}
 }

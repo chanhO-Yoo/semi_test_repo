@@ -10,5 +10,8 @@ public class sample {
 		
 		test_poi415 test = new test_poi415();
 		test.test();
+		
+		test_danbi test2 = new test_danbi();
+		test2.test();
 	}
 }

@@ -13,5 +13,6 @@ public class sample {
 		
 		test_danbi test2 = new test_danbi();
 		test2.test();
+		
 	}
 }
